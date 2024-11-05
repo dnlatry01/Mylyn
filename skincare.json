@@ -1,0 +1,62 @@
+[
+{
+    "name": "Hydrating Facial Cleanser",
+    "description": "Gentle cleanser that removes impurities while moisturizing the skin.",
+    "image": "hydrating_facial_cleanser.jpg",
+    "price": 1200
+  },
+  {
+    "name": "Moisturizing Cream",
+    "description": "Rich cream that provides intense hydration and nourishment.",
+    "image": "moisturizing_cream.jpg",
+    "price": 1500
+  },
+  {
+    "name": "Sunscreen SPF 50",
+    "description": "Broad-spectrum sunscreen that protects against UVA and UVB rays.",
+    "image": "sunscreen_spf50.jpg",
+    "price": 1000
+  },
+  {
+    "name": "Exfoliating Scrub",
+    "description": "Gentle scrub that removes dead skin cells for a brighter complexion.",
+    "image": "exfoliating_scrub.jpg",
+    "price": 800
+  },
+  {
+    "name": "Anti-Aging Serum",
+    "description": "Powerful serum that reduces the appearance of fine lines and wrinkles.",
+    "image": "anti_aging_serum.jpg",
+    "price": 2500
+  },
+  {
+    "name": "Face Mask",
+    "description": "Nourishing face mask that revitalizes and rejuvenates the skin.",
+    "image": "face_mask.jpg",
+    "price": 900
+  },
+  {
+    "name": "Toner",
+    "description": "Refreshing toner that balances and preps the skin for hydration.",
+    "image": "toner.jpg",
+    "price": 700
+  },
+  {
+    "name": "Eye Cream",
+    "description": "Hydrating eye cream that reduces puffiness and dark circles.",
+    "image": "eye_cream.jpg",
+    "price": 1800
+  },
+  {
+    "name": "Night Cream",
+    "description": "Rich night cream that repairs and restores skin overnight.",
+    "image": "night_cream.jpg",
+    "price": 2200
+  },
+  {
+    "name": "Facial Oil",
+    "description": "Luxurious facial oil that provides deep hydration and radiance.",
+    "image": "facial_oil.jpg",
+    "price": 2000
+  }
+]
